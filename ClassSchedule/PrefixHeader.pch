@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  ClassSchedule
+//
+//  Created by caiming on 16/9/12.
+//  Copyright © 2016年 caiming. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#define time_table_W 90
+#define time_table_H 30
+
+#define DayTimeView_Left_W 60
+#define DayHeadView_H 43
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
